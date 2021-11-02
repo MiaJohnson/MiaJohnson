@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I like my job. I love my team. Sometimes I need a side project to keep the creative juices flowing. This is where I store my personal projects. Currently my projects are set to private. Hopefully in the next year I'll have some fun new projects I can share with you too.
+
+I'm currently working on a side project that will capture horse owners most needed information, allow them to track costs, events, equipment, share feed schedules, etc. Ok.. honestly, this is for me. I am horse owners. Maybe I'll share it when I get it working in all the ways I want it to work. :)
+
+### Languages/Frameworks/Databases
+  C#.Net | TypeScript | SQL | .NetCore | SQLServer | SSRS | Crystal Reports |
