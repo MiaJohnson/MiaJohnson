@@ -1,56 +1,32 @@
-### Hi there 👋
+<h1 align="center">Sr Software Engineer Mia Johnson</h1>
+<h3 align="center">Side project hobbiest</h3>
 
-<!--
-**MiaJohnson/MiaJohnson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-I like my job. I love my team. Sometimes I need a side project to keep the creative juices flowing. This is where I store my personal projects. Currently my projects are set to private. Hopefully in the next year I'll have some fun new projects I can share with you too.
+- 🔭 I’m currently working on [Horse Management](https://nuggetmanagementsoftware.com)
 
-I'm currently working on a side project that will capture horse owners most needed information, allow them to track costs, events, equipment, share feed schedules, etc. Ok.. honestly, this is for me. I am horse owners. Maybe I'll share it when I get it working in all the ways I want it to work. :)
+- 🌱 I’m currently learning **Blazor**
 
-![GitHub followers](https://img.shields.io/github/followers/MiaJohnson?style=social)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/miajohnson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="miajohnson" height="30" width="40" /></a>
+<a href="https://twitter.com/avandarre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="avandarre" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/miajohnson01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="miajohnson01" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/mjohnson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mjohnson" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/mia_johnson01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mia_johnson01" height="30" width="40" /></a>
+</p>
 
-### Languages
-  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
-  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-  
-### Frameworks
-  ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-  ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-  ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-### Databases/BI Tools
-  ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=miajohnson&show_icons=true&locale=en&layout=compact" alt="miajohnson" /></p>
 
-  ![SQL Server Reporting Services](https://img.shields.io/badge/SQL%20Server%20Reporting%20Services-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=blue)
-  ![SQL Server Integration Services](https://img.shields.io/badge/SQL%20Server%20Integration%20Services-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=green)
-  ![SAP Crystal Reports](https://img.shields.io/badge/SAP%20Crystal%20Reports-%230769AD.svg?style=for-the-badge&logo=SAP&logoColor=white)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=miajohnson&show_icons=true&locale=en" alt="miajohnson" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=miajohnson&" alt="miajohnson" /></p>
 
 ### Certifications
    ![MCTS](https://img.shields.io/badge/Microsoft%20Certified%20Technology%20Specialist-SQL%20Server%202005%20Business%20Intelligence%20Application%20Development-blue)
    ![MCTS](https://img.shields.io/static/v1?label=Microsoft%20Certified%20Technology%20Specialist&message=SharePoint%20Server%202007%20Configuration&color=#5E5E5E&)
-   
-### IDEs/Operating Systems/Other
-  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-  ![Microsoft SharePoint ](https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white)
-
-### Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=MiaJohnson)](https://git.io/streak-stats)
-
-
-Using: https://github.com/Ileriayo/markdown-badges
+  
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=miajohnson" alt="miajohnson" /></a> </p>
