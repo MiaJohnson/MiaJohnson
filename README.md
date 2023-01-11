@@ -49,7 +49,10 @@ I'm currently working on a side project that will capture horse owners most need
   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
   ![Microsoft SharePoint ](https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white)
 
-Using: https://github.com/Ileriayo/markdown-badges
+
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=MiaJohnson)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiaJohnson&langs_count=8&layout=compact)](https://github.com/MiaJohnson?tab=repositories)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MiaJohnson)](https://github.com/MiaJohnson)
+Using: https://github.com/Ileriayo/markdown-badges
