@@ -50,3 +50,6 @@ I'm currently working on a side project that will capture horse owners most need
   ![Microsoft SharePoint ](https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white)
 
 Using: https://github.com/Ileriayo/markdown-badges
+
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MiaJohnson)](https://git.io/streak-stats)
