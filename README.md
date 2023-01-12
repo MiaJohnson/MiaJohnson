@@ -23,7 +23,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=miajohnson&show_icons=true&locale=en" alt="miajohnson" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=miajohnson&" alt="miajohnson" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=miajohnson" alt="miajohnson" /></p>
 
 ### Certifications
    ![MCTS](https://img.shields.io/badge/Microsoft%20Certified%20Technology%20Specialist-SQL%20Server%202005%20Business%20Intelligence%20Application%20Development-blue)
