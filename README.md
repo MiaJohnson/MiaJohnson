@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Horse Management](https://nuggetmanagementsoftware.com)
 
-- 🌱 I’m currently learning **Blazor**
+- 🌱 I’m currently learning **.Net Maui**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
